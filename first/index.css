@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    background-color: darkslategrey;
+    width: 100%;
+    height: 550px;
+  }
+  
+  .head {
+    width: 100%;
+    height: 135px;
+    background-color: coral;
+  }
+  
+  .main {
+    background-color: whitesmoke;
+    margin: 0 auto;
+    width: 75%;
+    height: 480px;
+  }
+  
+  .foot { 
+    background-color: #5f4040;
+    margin: 0 auto;
+    width: 75%;
+    height: 70px;
+  }
+
